@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739717414,,"wq"
+|2,0,1739719424,,"wq"
 :q!
 |2,0,1739717352,,"q!"
 :WQ
@@ -32,32 +32,42 @@
 |3,1,36,0,1,0,1739023198,"`"
 
 # File marks:
-'0  55  0  ~/mandatory/1.12/example-frontend/Dockerfile
-|4,48,55,0,1739717414,"~/mandatory/1.12/example-frontend/Dockerfile"
-'1  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
-|4,49,1,0,1739717352,"~/mandatory/1.12/example-frontend/Dockerfile"
+'0  55  0  ~/Exercise-1.12/example-frontend/Dockerfile
+|4,48,55,0,1739719424,"~/Exercise-1.12/example-frontend/Dockerfile"
+'1  55  0  ~/mandatory/1.12/example-frontend/Dockerfile
+|4,49,55,0,1739717414,"~/mandatory/1.12/example-frontend/Dockerfile"
 '2  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
 |4,50,1,0,1739717352,"~/mandatory/1.12/example-frontend/Dockerfile"
-'3  7  14  ~/Dockerfile
-|4,51,7,14,1739715867,"~/Dockerfile"
-'4  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,52,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
-'5  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,53,51,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
-'6  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,54,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
-'7  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,55,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
+'3  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
+|4,51,1,0,1739717352,"~/mandatory/1.12/example-frontend/Dockerfile"
+'4  7  14  ~/Dockerfile
+|4,52,7,14,1739715867,"~/Dockerfile"
+'5  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,53,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+'6  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,54,51,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+'7  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,55,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
 '8  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,56,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
 '9  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,57,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
 
 # Jumplist (newest first):
+-'  55  0  ~/Exercise-1.12/example-frontend/Dockerfile
+|4,39,55,0,1739719424,"~/Exercise-1.12/example-frontend/Dockerfile"
+-'  1  0  ~/Exercise-1.12/example-frontend/Dockerfile
+|4,39,1,0,1739719403,"~/Exercise-1.12/example-frontend/Dockerfile"
+-'  55  0  ~/mandatory/1.12/example-frontend/Dockerfile
+|4,39,55,0,1739717414,"~/mandatory/1.12/example-frontend/Dockerfile"
 -'  55  0  ~/mandatory/1.12/example-frontend/Dockerfile
 |4,39,55,0,1739717414,"~/mandatory/1.12/example-frontend/Dockerfile"
 -'  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
 |4,39,1,0,1739717405,"~/mandatory/1.12/example-frontend/Dockerfile"
+-'  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
+|4,39,1,0,1739717405,"~/mandatory/1.12/example-frontend/Dockerfile"
+-'  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
+|4,39,1,0,1739717352,"~/mandatory/1.12/example-frontend/Dockerfile"
 -'  1  0  ~/mandatory/1.12/example-frontend/Dockerfile
 |4,39,1,0,1739717352,"~/mandatory/1.12/example-frontend/Dockerfile"
 -'  7  14  ~/Dockerfile
@@ -68,6 +78,30 @@
 |4,39,7,14,1739715867,"~/Dockerfile"
 -'  7  14  ~/Dockerfile
 |4,39,7,14,1739715867,"~/Dockerfile"
+-'  7  14  ~/Dockerfile
+|4,39,7,14,1739715867,"~/Dockerfile"
+-'  7  14  ~/Dockerfile
+|4,39,7,14,1739715867,"~/Dockerfile"
+-'  7  14  ~/Dockerfile
+|4,39,7,14,1739715867,"~/Dockerfile"
+-'  7  14  ~/Dockerfile
+|4,39,7,14,1739715867,"~/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,42,0,1739714829,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
@@ -100,6 +134,38 @@
 |4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  51  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,51,0,1739714793,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,55,0,1739714531,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  55  0  ~/1.12/material-applications/example-frontend/Dockerfile
@@ -149,7 +215,37 @@
 -'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
+-'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
+|4,39,1,0,1739714499,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
@@ -158,104 +254,15 @@
 |4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
 -'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
 |4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  1  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,1,0,1739714497,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  38  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,38,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739714327,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  42  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,42,0,1739713270,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  37  39  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,37,39,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
--'  41  0  ~/1.12/material-applications/example-frontend/Dockerfile
-|4,39,41,0,1739713238,"~/1.12/material-applications/example-frontend/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/Exercise-1.12/example-frontend/Dockerfile
+	*	1739719421	0
+	"	55	0
+	^	55	0
+	.	54	0
+	+	54	0
 
 > ~/mandatory/1.12/example-frontend/Dockerfile
 	*	1739717410	0
