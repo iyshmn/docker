@@ -1,0 +1,6 @@
+[submodule "1.12/1.12"]
+	path = 1.12/1.12
+	url = https://github.com/docker-hy/material-applications.git
+[submodule "mandatory/1.12"]
+	path = mandatory/1.12
+	url = https://github.com/docker-hy/material-applications.git
