@@ -1,0 +1,51 @@
+   21  docker exec devopsdockeruh/simple-web-service:ubuntu bash
+   22  docker exec e7  bash
+   25  docker exec d0  bash
+   26  docker exec d0ac  bash
+   27  docker exec -it  d0ac  bash
+   28  docker exec -it 83 bash
+   31  docker exec -it 9b  bash
+  153  docker exec sh fd
+  154  docker exec fd sh
+  156  docker exect sh fd
+  157  docker exec sh fd
+  165  docker exec something1 sh
+  171  docker exec somthing1 sh
+  172  docker exec f3 sh
+  195  docker exec fd -sh
+  198  docker exec 83 -sh
+  199  docker exec 83 sh
+  214  docker exec 5f ls
+  215  docker exec 5f bash
+  216  docker exec -it 5f bash
+  217  docker exec -it 5f /bash
+  222  docker exec -it 9e 
+  223  docker exec -it 9e bash
+  224  docker exec -d -it 9e bash
+  247  docker exec -it 62 sh
+  248  docker exec -d -it 62 sh
+  254  docker exec -it 55 sh
+  262  docker exec 01
+  263  docker exec 01 bash
+  295  docker exec e8
+  296  docker exec e8 bash
+  297  docker exec -itc e8 bash
+  298  docker exec -it e8 bash
+  330  docker exec -it ed bash
+  331  docker exec -it ed sh
+  347  docker exec -it 31
+  348  docker exec -it clear
+  351  docker exec -it 31
+  352  docker exec -it 31 node index.js
+  363  docker exec -i d9t bash 
+  364  docker exec -it d9 bash 
+  549  docker exec -it devopsdockeruh/simple-web-service:alpine sh
+  552  docker exec -it devopsdockeruh/simple-web-service:alpine sh
+  553  docker exec -it clear sh
+  692  docker exec -it 41
+  693  docker exec -it 41 bash
+  697  docker exec -it 415 bash
+  785  history | grep exec
+  787  history | grep exec -vi
+  788  history | grep exec > -vi
+  790  history | grep exec > -vi
